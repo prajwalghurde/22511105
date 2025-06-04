@@ -49,7 +49,7 @@ Server will run on `http://localhost:5000/`
 ### ✅ Auth with token
 
 
-![auth](screenshot/auth.png)
+![auth](./screenshot/auth.png)
 
 
 ## 📡 Available API Endpoints
