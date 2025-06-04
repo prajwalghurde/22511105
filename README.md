@@ -46,6 +46,12 @@ Server will run on `http://localhost:5000/`
 
 ---
 
+### ✅ Auth with token
+
+
+![auth](screenshot/auth.png)
+
+
 ## 📡 Available API Endpoints
 
 ### ✅ Get Average Stock Price & Price History
@@ -55,12 +61,15 @@ Server will run on `http://localhost:5000/`
 ```
 GET /api/stocks/
 ```
-(/screenshots/stock.png)
+![stock](screenshot/stock.png)
+
 **Example**
 
 ```
 GET http://localhost:5000/api/stocks/NVDA?minutes=50
 ```
+
+![corr](screenshot/correln.png)
 
 **Response**
 
