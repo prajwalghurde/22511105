@@ -53,9 +53,9 @@ Server will run on `http://localhost:5000/`
 **Request**
 
 ```
-GET /api/stocks/:ticker?minutes=50
+GET /api/stocks/
 ```
-
+(/screenshots/stock.png)
 **Example**
 
 ```
