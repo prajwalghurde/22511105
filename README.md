@@ -49,7 +49,7 @@ Server will run on `http://localhost:5000/`
 ### ✅ Auth with token
 
 
-![auth](screenshot/auth.png)
+![auth](Screenshot/auth.png)
 
 
 ## 📡 Available API Endpoints
@@ -61,7 +61,7 @@ Server will run on `http://localhost:5000/`
 ```
 GET /api/stocks/
 ```
-![stock](screenshot/stock.png)
+![stock](Screenshot/stock.png)
 
 **Example**
 
@@ -69,7 +69,7 @@ GET /api/stocks/
 GET http://localhost:5000/api/stocks/NVDA?minutes=50
 ```
 
-![corr](screenshot/correln.png)
+
 
 **Response**
 
@@ -101,6 +101,10 @@ GET /api/stockcorrelation?minutes=50&ticker=NVDA&ticker=PYPL
 ```
 GET http://localhost:5000/api/stockcorrelation?minutes=50&ticker=NVDA&ticker=PYPL
 ```
+
+
+
+![corr](Screenshot/correln.png)
 
 **Response**
 
